@@ -43,6 +43,19 @@ the metrics defined.
 
 ![image](https://github.com/Vkumar-sys/Industrial_Project_2-IPL_SPORTS_ANALYTICS-/assets/66684700/5bda263c-6da4-4446-b86d-27f34350ae83)
 
+![image](https://github.com/Vkumar-sys/Industrial_Project_2-IPL_SPORTS_ANALYTICS-/assets/66684700/4056641c-5501-4c1b-9850-dda171f516de)
+
+![image](https://github.com/Vkumar-sys/Industrial_Project_2-IPL_SPORTS_ANALYTICS-/assets/66684700/5f86225b-412d-4c3c-84d3-f9a402936778)
+
+![image](https://github.com/Vkumar-sys/Industrial_Project_2-IPL_SPORTS_ANALYTICS-/assets/66684700/7dc57872-a6cf-45cf-8549-128ccd95a26e)
+
+![image](https://github.com/Vkumar-sys/Industrial_Project_2-IPL_SPORTS_ANALYTICS-/assets/66684700/f6f9689c-8166-4fc4-99db-5294265be3ba)
+
+
+
+
+
+
 
 
 
