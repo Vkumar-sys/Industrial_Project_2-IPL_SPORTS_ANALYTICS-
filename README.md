@@ -30,11 +30,11 @@ the metrics defined.
 
    >t20_wc_batting_summary:-
 
->>🧹Data Cleaning and Preprocessing in pandas library using the jupyter notebook
+>>🧹 Data Cleaning and Preprocessing in pandas library using the jupyter notebook
 
->>🪄Data transformation in power query inside the power bi desktop
+>>🪄 Data transformation using power query inside the power bi desktop
 
->>⚒️Data Modelling and building parameters in power bi using the DAX concept
+>>⚒️ Data Modelling and building parameters,calculated columns and measures in power bi using the DAX fundamentals.
 
 >>📊Building the interactive dashboard in power bi.
 
