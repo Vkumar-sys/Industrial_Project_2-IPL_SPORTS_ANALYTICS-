@@ -41,6 +41,8 @@ the metrics defined.
 # Screenshots of the dashboard:-
 ![image](https://github.com/Vkumar-sys/Industrial_Project_2-IPL_SPORTS_ANALYTICS-/assets/66684700/bcfdf0e0-95a0-4883-829f-8afd8455d081)
 
+![image](https://github.com/Vkumar-sys/Industrial_Project_2-IPL_SPORTS_ANALYTICS-/assets/66684700/5bda263c-6da4-4446-b86d-27f34350ae83)
+
 
 
 
