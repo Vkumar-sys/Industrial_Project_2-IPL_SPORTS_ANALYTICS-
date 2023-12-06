@@ -29,14 +29,13 @@ the metrics defined.
    >t20_wc_bowling_summary:-
 
    >t20_wc_batting_summary:-
-     
-     
-  
-
 
 >>🧹Data Cleaning and Preprocessing in pandas library using the jupyter notebook
->>🪄Data transformation in power query inside the power bi desktop.
->>⚒️Data Modelling and building parameters in power bi using the DAX concept.
+
+>>🪄Data transformation in power query inside the power bi desktop
+
+>>⚒️Data Modelling and building parameters in power bi using the DAX concept
+
 >>📊Building the interactive dashboard in power bi.
 
 # Screenshots of the dashboard:-
