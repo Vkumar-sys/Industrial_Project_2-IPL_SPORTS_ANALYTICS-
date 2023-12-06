@@ -1,13 +1,14 @@
 # Cricket Data Analytics ![Cricket_Logo](https://github.com/Vkumar-sys/Industrial_Project_2-IPL_SPORTS_ANALYTICS-/assets/66684700/c76b0a7f-c330-4ec6-84b7-c641c9a9b3a9)
 
 # Introduction:-
-The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data. I have used Power BI for making the Dashboard. We can easily analyse the data of the matches played in the world cup. We can also pick the best playing 11
-the metrics defined.
+The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data(2022). I have used Power BI for making the Dashboards. We can easily analyse the data of the matches played in the world cup. We can also pick the best playing 11
+as per the choice of subject matter expert.
 >Note:-To interact with the dashboard you can download the complete .pbix file from the repository and download it locally to your desktop.
 
 # Steps involved in the project:
 >>📝 Requirement Gathering.
->>🌐Data Collection using the web scraping using the ESPN cricinfo website plz click the below url to get redirected to the website for more information.
+>>🌐Data Collection using the web scraping using the ESPN cricinfo website plz click the below url to get redirected to the website for more information:-
+ 
 >>Brief description of the datasets used:-
   >CSV files used:-
     1>dim_match_summary:-It contains information about the names of the teams between whom the matches was played,
@@ -49,6 +50,7 @@ the metrics defined.
 
 ![image](https://github.com/Vkumar-sys/Industrial_Project_2-IPL_SPORTS_ANALYTICS-/assets/66684700/7dc57872-a6cf-45cf-8549-128ccd95a26e)
 
+![image](https://github.com/Vkumar-sys/Industrial_Project_2-IPL_SPORTS_ANALYTICS-/assets/66684700/0e3f0f6e-dc77-470e-a493-82c3286876ae)
 
 
 
