@@ -25,7 +25,9 @@ as per the choice of subject matter expert.
     3>fact_batting_summary:-This contains the information about each match,batsman 
                             name,balls,boundaries,sixes,strike/rate,
                             match_id.
-    4>fact_bowling_summary:-This contains the information about the bowlers name,no of overs bowled,no of maidens bowled,no of runs scored,no of wickets taken,economy rate of the bowler,no of boundaries,no of sixes,no of wides,no of noballs,match_id(the unique id of each match)
+    4>fact_bowling_summary:-This contains the information about the bowlers name,no of overs bowled,no of maidens 
+                            bowled,no of runs scored,no of wickets taken,economy rate of the bowler,no of 
+                            boundaries,no of sixes,no of wides,no of noballs,match_id(the unique id of each match)
 
    >JSON_files_used:-
    >t20_wc_player_info
