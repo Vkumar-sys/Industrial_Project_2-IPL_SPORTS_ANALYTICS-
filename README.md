@@ -14,6 +14,7 @@ as per the choice of subject matter expert.
  ![csv_logo](https://github.com/Vkumar-sys/Industrial_Project_2-IPL_SPORTS_ANALYTICS-/assets/66684700/735ad1f6-46d6-44bb-8367-f468d00aac56)
 
 >>Brief description of the datasets used:-
+
     1>dim_match_summary:-It contains information about the names of the teams between whom the matches was played,
                          the winner of the team and margin of runs the team won, ground on which the match was played
                          and id of the match in which the match was played.
@@ -39,7 +40,7 @@ as per the choice of subject matter expert.
 
 >>🪄  Data transformation using power query(self service etl tool of power bi) inside the power bi desktop.
 
->>⚒️Data Modelling and building parameters,calculated columns and measures in power bi using the DAX formuales for
+>>⚒️ Data Modelling and building parameters,calculated columns and measures in power bi using the DAX formuales for
      effective visualisation.
 
 >>📊Building the interactive dashboard in power bi to take analytical decisions.
