@@ -65,6 +65,8 @@ as per the choice of subject matter expert.
 
 ![image](https://github.com/Vkumar-sys/Industrial_Project_2-IPL_SPORTS_ANALYTICS-/assets/66684700/0e3f0f6e-dc77-470e-a493-82c3286876ae)
 
+#Data Analytics # Business Analytics #Data Visualization
+
 
 
 
