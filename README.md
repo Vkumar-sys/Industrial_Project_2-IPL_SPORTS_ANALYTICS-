@@ -48,7 +48,7 @@ as per the choice of subject matter expert.
 >> 🪄  Data transformation using power query(self service etl tool of power bi) inside the power bi desktop.
 
 > ⚒️ Data Modelling and building parameters,calculated columns and measures in power bi using the DAX formuales for
-     effective visualisation.
+      effective visualisation.
 
 >>📊 Building the interactive dashboard in power bi to take analytical decisions.
 
